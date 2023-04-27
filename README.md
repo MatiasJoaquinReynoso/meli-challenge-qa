@@ -7,8 +7,8 @@
 Hello everyone, this is a challenge from Mercadolibre for QA Automation role.
 
 ### The challenge demands:
-![Challenge](https://prnt.sc/47cfvCnmmxtV)
-<image src="https://prnt.sc/47cfvCnmmxtV" alt="Challenge">
+![Challenge](https://ibb.co/6wfMCM1)
+<image src="https://ibb.co/6wfMCM1" alt="Challenge">
 
 
 I decided to apply cucumber tool for the tests to explain step to step (BDD) what i apply to resolve it.
