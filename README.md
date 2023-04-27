@@ -8,11 +8,19 @@ Hello everyone, this is a challenge from Mercadolibre for QA Automation role.
 
 ### The challenge demands:
 ![Challenge](https://ibb.co/6wfMCM1)
+<<<<<<< HEAD
+=======
+<image src="https://ibb.co/6wfMCM1" alt="Challenge">
+
+>>>>>>> 9351cfb05945ac746a57d4daff4e952325728ac0
 
 I decided to apply cucumber tool for the tests to explain step to step (BDD) what i apply to resolve it.
 I was thinking about applying POM but since it doesn't require many classes and methods I decided that it was an extra job not necessary but maybe it would be more lengthy.
 
 ### 🚀 Install the project
-Install project dependencies with: npm i
-Run tests: npm run test
+Install project dependencies with: 
+- npm i
+
+🚀 Run tests: 
+- npm run test
 
