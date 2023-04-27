@@ -1,0 +1,21 @@
+{
+  "name": "melichallenge",
+  "version": "1.0.0",
+  "description": "mercado libre challenges e2e",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open --e2e --browser chrome"
+  },
+  "author": "Matias Reynoso",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^16.0.3",
+    "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "cypress": "^12.11.0",
+    "cypress-xpath": "^2.0.1",
+    "esbuild": "^0.17.18"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.7.6"
+  }
+}
