@@ -8,6 +8,7 @@ Hello everyone, this is a challenge from Mercadolibre for QA Automation role.
 
 ### The challenge demands:
 ![Challenge](https://prnt.sc/47cfvCnmmxtV)
+<image src="https://prnt.sc/47cfvCnmmxtV" alt="Challenge">
 
 
 I decided to apply cucumber tool for the tests to explain step to step (BDD) what i apply to resolve it.
@@ -17,6 +18,6 @@ I was thinking about applying POM but since it doesn't require many classes and 
 Install project dependencies with: 
 - npm i
 
-Run tests: 
--npm run test
+🚀 Run tests: 
+- npm run test
 
