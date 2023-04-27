@@ -16,6 +16,6 @@ I was thinking about applying POM but since it doesn't require many classes and 
 Install project dependencies with:
 - npm i
 
-🚀 Run tests:
+### 🚀 Run tests:
 - npm run test
 
