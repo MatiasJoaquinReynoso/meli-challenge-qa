@@ -2,9 +2,9 @@
 
 ## Hello everyone, my name is Matias Reynoso (QA / TAE).
 
-### This is for only practice !
+#### Is only to practice !
 
-Hello everyone, this is a challenge from Mercadolibre for QA Automation role.
+This is a challenge from Mercadolibre for QA Automation role.
 
 ### The challenge demands:
 [Challenge](https://ibb.co/x18b5YX)
