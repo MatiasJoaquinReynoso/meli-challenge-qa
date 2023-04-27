@@ -7,7 +7,7 @@
 Hello everyone, this is a challenge from Mercadolibre for QA Automation role.
 
 ### The challenge demands:
-[Course](https://ibb.co/6wfMCM1)
+[Challenge](https://ibb.co/x18b5YX)
 
 I decided to apply cucumber tool for the tests to explain step to step (BDD) what i apply to resolve it.
 I was thinking about applying POM but since it doesn't require many classes and methods I decided that it was an extra job not necessary but maybe it would be more lengthy.
