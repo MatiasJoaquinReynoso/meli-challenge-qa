@@ -16,6 +16,7 @@
   "devDependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^16.0.3",
     "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "@cypress/xpath": "^2.0.3",
     "@shelex/cypress-allure-plugin": "^2.38.3",
     "cypress": "^12.11.0",
     "cypress-xpath": "^2.0.1",

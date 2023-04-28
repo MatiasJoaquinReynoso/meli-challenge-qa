@@ -18,6 +18,6 @@ import './commands'
 import 'cypress-real-events/support';
 import './exceptions';
 import '@shelex/cypress-allure-plugin';
-require('cypress-xpath');
+require('@cypress/xpath');
 // Alternatively you can use CommonJS syntax:
 // require('./commands')
