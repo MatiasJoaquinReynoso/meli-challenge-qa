@@ -19,3 +19,8 @@ Install project dependencies with:
 ### 🚀 Run tests:
 - npm run test
 
+#### Tools/Frameworks:
+- Cypress 
+- JavaScript 
+- Cucumber - Gherkin BDD
+- Mochawesome - Allure (reporters)
