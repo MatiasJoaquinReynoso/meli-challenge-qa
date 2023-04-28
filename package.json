@@ -4,13 +4,19 @@
   "description": "mercado libre challenges e2e",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open --e2e --browser chrome"
+    "test": "cypress open --e2e --browser chrome",
+    "cypress:execution": "cypress run --spec cypress/e2e/features/*",
+    "cypress:execution-allure": "cypress run --env allure=true",
+    "allure:clear": "rm -r allure-results/ allure-report cypress/screenshots || true",
+    "allure:report": "allure generate allure-results --clean -o allure-report",
+    "allure:history": "mv -f allure-report/history allure-results/history && rm -r allure-report || true"
   },
   "author": "Matias Reynoso",
   "license": "ISC",
   "devDependencies": {
     "@badeball/cypress-cucumber-preprocessor": "^16.0.3",
     "@bahmutov/cypress-esbuild-preprocessor": "^2.2.0",
+    "@shelex/cypress-allure-plugin": "^2.38.3",
     "cypress": "^12.11.0",
     "cypress-xpath": "^2.0.1",
     "esbuild": "^0.17.18"

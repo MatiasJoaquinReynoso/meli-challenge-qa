@@ -1,0 +1,89 @@
+[
+  {
+    "description": "",
+    "elements": [
+      {
+        "description": "",
+        "id": "mercado-libre---validate-title-and-results-of-subcategory;choose-one-option-and-validate-title-and-results-of-the-subcategory-selected",
+        "keyword": "Scenario",
+        "line": 4,
+        "name": "Choose One Option and Validate Title and Results of the subcategory selected",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 3,
+            "name": "A web browser is at the MercadoLibre home page then open the categories menu",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 3412000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 5,
+            "name": "Click on Categories Button",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 2889000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 6,
+            "name": "The dropdown is enable",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 35000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 7,
+            "name": "Select an Option and enter a subcategory of it",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 6436000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 8,
+            "name": "Check if the title and results",
+            "match": {
+              "location": "not available:0"
+            },
+            "result": {
+              "status": "passed",
+              "duration": 161000000
+            }
+          }
+        ],
+        "tags": [],
+        "type": "scenario"
+      }
+    ],
+    "id": "mercado-libre---validate-title-and-results-of-subcategory",
+    "line": 1,
+    "keyword": "Feature",
+    "name": "Mercado Libre - Validate title and results of Subcategory",
+    "tags": [],
+    "uri": "cypress\\e2e\\features\\melifront.feature"
+  }
+]
