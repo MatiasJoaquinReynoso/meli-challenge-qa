@@ -24,3 +24,4 @@ Install project dependencies with:
 - JavaScript 
 - Cucumber - Gherkin BDD
 - Mochawesome - Allure (reporters)
+- Git Hub Actions
